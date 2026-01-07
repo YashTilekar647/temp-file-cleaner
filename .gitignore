@@ -8,6 +8,7 @@ __pycache__/
 logs/
 reports/*.log
 reports/*.txt
+reports/*.csv
 
 # OS files
 .DS_Store
